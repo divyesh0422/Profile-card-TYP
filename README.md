@@ -43,14 +43,9 @@ Edit
 📦 Installation
 Clone the repo:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/react-profile-card.git
-cd react-profile-card
-Install dependencies:
 
-bash
+
+
 Copy
 Edit
 npm install
