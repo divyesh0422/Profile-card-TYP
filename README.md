@@ -1,32 +1,26 @@
-# 📝 To-Do List App — React + TailwindCSS
+ Profile Card UI in React.js + TailwindCSS! 🎨⚛️
 
-A beautifully designed, responsive, and animated To-Do List app built using **React.js**, **TailwindCSS**, and **Framer Motion**. This project helps you manage tasks while showcasing modern UI design and front-end best practices.
+I’ve been working on sharpening my React component skills, and here’s my latest mini project: a horizontal profile card layout inspired by real-world freelance platforms.
 
-## ✨ Features
+✅ Features:
 
-- ✅ Add, edit, delete tasks
-- 🔄 Mark tasks as completed
-- 🧠 LocalStorage persistence
-- 🎨 Animated gradient background
-- 💡 Task index numbers and scrollable list
-- 🧩 Modular React components
-- 🖼 Heroicons integration
-- 📱 Responsive design
+Clean horizontal layout (profile on left, info on right)
 
+Smooth "View Profile" toggle with extra details
 
+Responsive design with TailwindCSS
 
-## 🛠 Tech Stack
+Invite + tag-based skills section
 
-- [React.js](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Heroicons](https://heroicons.com/)
+Fully customizable and reusable
 
-## 📁 Folder Structure
+🔧 Tech stack:
+React.js | TailwindCSS | Functional Components | useState
 
-src/
-├── App.jsx
-├── App.css
-└── components/
-└── TodoList.jsx
+🎯 This is part of my ongoing journey to master component design, layout systems, and modern UI patterns. More components coming soon – badges, modals, dashboards!
 
+💬 I'd love your feedback – What should I build next?
+
+📎 Source Code + Preview: (add GitHub link or CodeSandbox here)
+
+#ReactJS #TailwindCSS #FrontendDev #UIDesign #WebDevelopment #100DaysOfCode #LinkedInProjects #PortfolioProjects
